@@ -1,0 +1,12 @@
+{
+  "name": "tale-of-declare-var-and-api-extractor",
+  "typings": "./index.d.ts",
+  "scripts": {
+    "test": "api-extractor run --local"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@microsoft/api-extractor": "^7.55.2",
+    "typescript": "^5.9.3"
+  }
+}
